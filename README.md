@@ -1,10 +1,10 @@
-# BIO312_Final_Repository
+# BIO312 Final Repository
 This document contains all the commands used to create my project. There are two parts. The commands used in Labs 03 - 08 which were not used for my project and then the actual commands I used for my project. 
 
 ## Part 1: The Labs 
 
 ### Lab 03: Finding homologs with BLAST KEY
-This lab was done twice. Once for my original protein TOLLIP and again for PONPON. The only difference in the commands is the name. TOLLIP changes to PONPON. 
+The purpose of this lab is to conduct a BLAST search on a starting protein to find homologs and get a general picture of size of the gene family. 
 
 ```commands
 List of commands used for PONPON (excluding less commands used to view files)
@@ -37,3 +37,4 @@ After this you can sort the results in a way that makes sense to you but we chos
 ```
 
 ### Lab 04: Gene family sequence alignment
+In this lab we aligned the genes we found in our BlAST search from the previous lab. 
